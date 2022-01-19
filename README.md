@@ -1,2 +1,2 @@
 # Mission-To-Mars
-Week 10
+This repository holds the files to create a web app for Robin that scrapes recent data about Mars.
